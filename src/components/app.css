@@ -1,0 +1,13 @@
+.App{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    font-size: 50px;
+    color: green;
+}
+
+
+.isComplete{
+    color: red;
+    text-decoration: line-through;
+}
